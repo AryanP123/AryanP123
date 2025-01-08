@@ -3,7 +3,17 @@
 <h1 align="center">Hi 👋, I'm Aryan Puttur</h1>
 <h3 align="center">A recent CS graduate of University of Massachusetts Amherst</h3>
 
-- 🌱 I’m currently learning **PyTorch, Deep Learning, and Kubernetes**
+Hi 👋 My name is Aryan Puttur
+==============================
+
+Software Engineer
+-----------------
+
+* 🌱 I’m currently learning **PyTorch, Deep Learning, and Kubernetes**
+* 🌍  I'm based in Boston, MA, USA
+* 🖥️  See my portfolio at [aryanputtur.com](http://aryanputtur.com/)
+* ✉️  You can contact me at [putturaryan@gmail.com](mailto:putturaryan@gmail.com)
+* 🤝  I'm open to collaborating on awesome projects :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
