@@ -1,13 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aryan Puttur</h1>
 <h3 align="center">A recent CS graduate of University of Massachusetts Amherst</h3>
-
-Hi 👋 My name is Aryan Puttur
-==============================
-
-Software Engineer
------------------
 
 * 🌱 I’m currently learning **PyTorch, Deep Learning, and Kubernetes**
 * 🌍  I'm based in Boston, MA, USA
