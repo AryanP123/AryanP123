@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Puttur</h1>
 <h3 align="center">SWE at IBM</h3>
 
-* 🌍  I'm based in Massachusetts, USA
-* 🖥️  See my portfolio at [aryanputtur.com](http://aryanputtur.com/)
+[aryanputtur.com](http://aryanputtur.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
